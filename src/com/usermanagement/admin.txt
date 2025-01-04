@@ -1,0 +1,6 @@
+firstname,lastname,phone,email,password
+anak,unak,01234567,admin@example.com,admin123
+gajah,besar,0122222222admin1@example.com,admin456
+semut,kecil,0133333333adomin@example.com,huha
+o,a,0199999999,hiha@example.com,kuna
+Ustaz,Hafiz,0155555555,ustaz@example.com,ustaz

@@ -1,0 +1,9 @@
+firstname,lastname,phone,email,password
+haziq,rashid,0178134146,user1@example.com,user123
+intan,hasru,01137655984,user2@example.com,user456
+adam,zaharin,0133003775,user3@example.com,user789
+umi,abah,0184625276,umiabah@gmail.com,haziq
+adik,along,0111111111,kuku@gmail.com,kiki
+Haziq,Comel,123456,ite@gmail.com,intan1910
+hazq,uziq,019993499,jj@example.com,pon
+danial,adam,0188776654,adanial@example.com,adam19

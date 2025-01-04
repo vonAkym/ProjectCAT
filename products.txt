@@ -1,0 +1,6 @@
+Apple iPhone 14,Latest Apple iPhone with 5G,Smartphone,999.99,50,IP14-1001
+Samsung Galaxy S21,Latest Samsung Galaxy with great camera,Smartphone,899.99,30,SGS21-1002
+Sony 55 inch 4K TV,55 inch 4K Ultra HD Smart TV,Electronics,599.99,20,SONY4K-2001
+Dell XPS 13,13-inch ultra-thin laptop for professionals,Laptop,1099.99,15,DELLXPS13-3001
+Nike Air Zoom,Men's running shoes with cushioning and support,Sportswear,120.0,100,NIKE-AZ-5001
+Apple Iphone 15 pro,Greates Iphone,Smartphone,9999.9,100,SKU1234
